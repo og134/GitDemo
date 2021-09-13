@@ -13,6 +13,12 @@ import java.lang.String;
 
 class Demo {
 
+	public int DeveloperChnages() {
+
+		System.out.println("hello");
+		return 1;
+	}
+
 	public static void main(String[] args) throws InterruptedException {
 
 		Scanner myObj = new Scanner(System.in);
