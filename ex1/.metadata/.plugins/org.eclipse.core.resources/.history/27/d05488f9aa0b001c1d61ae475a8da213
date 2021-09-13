@@ -1,9 +1,0 @@
-package ex1;
-
-public class BlockTest {
-
-public int sum(int a,int b) {
-	return (a+b);
-}
-
-}
